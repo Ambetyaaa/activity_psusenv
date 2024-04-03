@@ -1,4 +1,7 @@
+#PSUSphere
 - CRUD (Django Admin)
+- Models
+- Create SuperUser account
 - Faker
 
 # Author
@@ -9,4 +12,4 @@
 
 ## Jemeric Valmoria
 
-[link to github acc](https://github.com/jeffhaha101)
+![Ambet](https://avatars.githubusercontent.com/u/132963774?v=4)
