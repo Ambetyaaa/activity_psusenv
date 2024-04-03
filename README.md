@@ -5,6 +5,6 @@
 
 ## Jeremiah Mutia
 
-![J]()
+![J](https://github.com/jeffhaha101)
 
 ## Jemeric Valmoria
