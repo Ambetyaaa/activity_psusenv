@@ -1,1 +1,2 @@
-# activity_psusenv
+- CRUD (Django Admin)
+- Faker
