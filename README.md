@@ -1,4 +1,5 @@
 # PSUSphere
+##### Creating virtual environment and installing Django. Creating models and add it in the database by making migrations.
 - CRUD (Django Admin)
 - Models
 - Create SuperUser account
