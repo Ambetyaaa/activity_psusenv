@@ -4,7 +4,7 @@
 - Create SuperUser account
 - Faker
 
-# Author
+# Authors
 
 ## Jeremiah Mutia
 
