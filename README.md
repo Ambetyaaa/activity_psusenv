@@ -5,7 +5,7 @@
 
 ## Jeremiah Mutia
 
-![Jeff](https://github.com/account)
+![Jeff]([https://github.com/account](https://avatars.githubusercontent.com/u/132559205?v=4))
 
 ## Jemeric Valmoria
 
